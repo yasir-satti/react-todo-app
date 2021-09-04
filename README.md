@@ -5,7 +5,10 @@ https://ibaslogic.com/react-tutorial-for-beginners/#converting-class-based-compo
 
 I used this tutorial to learn React JS. It covered:
 
-1. React fundamentals
+1. React fundamentals:
+
+Using the Create React App CLI / React Component Types / Creating the Component Files / React.Fragment / Enabling the Strict Mode / Working with Data (Props, State, Function Component ) ( stretch: React Context API, Render Props,  )
+
 2. Working with React Form and Event Handling
 3. How to add CSS in Reactjs App
 4. How to Edit Todos Items in a React Application
