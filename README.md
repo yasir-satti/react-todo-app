@@ -12,6 +12,8 @@ Using the Create React App CLI / React Component Types / Creating the Component 
 Adding checkboxes / Controlled Component / Raising and Handling Events / using the setState() method / Deleting items / Adding text input field / Handling React form / Updating form / Spread syntax (...) / Generating random ids UUID / Validating Form Submission
 
 3. How to add CSS in Reactjs App
+CSS Stylesheet / Inline styling / Styling React App with CSS Modules / Conditional Rendering / Using Destructuring
+
 4. How to Edit Todos Items in a React Application
 5. How to persist state of your React component in local storage
 6. Getting Started With the React lifecycle methods
