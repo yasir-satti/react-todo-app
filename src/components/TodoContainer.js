@@ -21,7 +21,7 @@ class TodoContainer extends React.Component {
           {
             id: uuidv4(),
             title: "Deploy to live server",
-            completed: false
+            completed: true
           }
         ]
        };
